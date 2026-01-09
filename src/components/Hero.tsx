@@ -28,7 +28,7 @@ export default function Hero() {
               src={profileImg}
               alt="Profile"
               className="
-                w-26 h-26 sm:w-40 sm:h-44
+                w-28 h-27 sm:w-40 sm:h-44
                 rounded-full
                 object-cover
                 border-4 border-blue-600
